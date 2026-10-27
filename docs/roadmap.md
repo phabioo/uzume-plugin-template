@@ -6,6 +6,6 @@ Status: planned, nothing implemented. Builds on Uzume plugin API v1 (since 0.11)
 
 - Example plugin skeleton for plugin API v1: manifest, `main.lua`, `i18n/` (English source, German first translation), `assets/`, Lua tests with synthetic data.
 - `docs/getting-started.md` for plugin authors (placeholder until the example exists).
-- CI and `.fbplugin` packaging/signing workflow as reference for the other plugin repositories.
+- CI and `.uzplugin` packaging/signing workflow as reference for the other plugin repositories.
 
 Nothing is implemented yet.
