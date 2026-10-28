@@ -4,6 +4,7 @@
   "id": "net.example.hello",           // unique plugin id
   "name": "Example",                       // display name
   "version": "1.0.0",                      // plugin version
+  "issues_url": "https://github.com/example/uzume-plugin-hello",  // optional: GitHub repository for "Report on GitHub" in Uzume
   "api": 1,                                // plugin API version; unknown versions are rejected
   "type": "script",                        // "script" (sandboxed Lua); "tool" only for signed official plugins
   "requires": { "net.example.hello-core": "^1.0" },  // dependencies, loaded first
